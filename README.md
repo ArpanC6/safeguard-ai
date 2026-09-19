@@ -29,6 +29,10 @@ Existing AI models produce outputs like "Pneumonia: 92%" but they do not know wh
 
 The real question is not whether AI can detect disease. The real question is whether AI knows when it does not know.
 
+## Demo Video
+
+[Watch the 3-minute demo](https://github.com/ArpanC6/safeguard-ai/blob/main/demo.mp4)
+
 ---
 
 ## The Solution
